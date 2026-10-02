@@ -1,4 +1,4 @@
-# Learning STM32 
+# Learning STM32 -HAL(HARWARE ABSTRACTION LAYER)
 
 Welcome to my STM32 learning journey! This repository documents my progress, projects, and experiments as I dive into the world of ARM Cortex-M microcontrollers using STM32.
 
